@@ -1,0 +1,6 @@
+name: CompassTarget
+version: '${project.version}'
+main: ru.awake.compasstarget.CompassTarget
+api-version: '1.16'
+commands:
+  gps: {}
